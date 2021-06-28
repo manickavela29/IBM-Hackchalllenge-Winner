@@ -8,3 +8,5 @@ Application Forecast 5 days Power generation from Wind Farm.With this the Power 
 Video Demonstration  : https://drive.google.com/drive/folders/1z7wY2yI_TVDMKDJ_QvHdSnRT1cvtO6D9?usp=sharing
 
 Live Application URL : https://node-red-attempt.mybluemix.net/ui
+
+Our Team won Jury's Choice Award for IBM Hackchallenge 2020
